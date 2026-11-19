@@ -1,34 +1,34 @@
-# Olá, eu sou o Kaio Gabriel 👋
+# Hi, I'm Kaio Gabriel 👋
 
-Profissional em formação em **Engenharia de Produção** e com formação técnica em **Química**, atuando na interseção entre **Análise de Dados**, **Automação de Processos**, **Operações/Orçamentação** e **Desenvolvimento**. Busco oportunidades **home office** (e híbridas na região), com foco principal em **Análise de Dados Júnior**, além de vagas em **Processos, Operações, Finanças e Programação**.
-
----
-
-## 📊 O que eu entrego na prática
-
-* **Análise de Dados & BI:** Tratamento e higienização de bases, consultas **SQL**, indicadores operacionais (como *MTTR* e *downtime*) e apoio à tomada de decisão.
-* **Automação & Integrações:** Redução de tarefas manuais com **Google Apps Script**, **APIs REST**, **Webhooks**, **n8n** e **Make**.
-* **Desenvolvimento & Lógica:** Aplicações **Full Stack** (**Python/Flask**, **SQL**, **HTML/JS**) e regras de negócio em **Java (POO)**.
+Industrial Engineering student and Chemical Technician working at the intersection of **Data Analysis**, **Process Automation**, **Operations/Costing**, and **Software Development**. Looking for **remote (home office)** opportunities (as well as local hybrid roles), with primary focus on **Junior Data Analyst**, and open to **Process, Operations, Finance, Accounting, and Programming** roles.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📊 What I Deliver in Practice
 
-1. **[Análise de Dados de Manutenção (SQL & BI)](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi)** — Modelagem relacional em SQL e consultas analíticas para cálculo de *downtime*, *MTTR*, mix de manutenção e suporte a planos de ação 5W2H.
-2. **[Automação de Enriquecimento de CNPJ (Google Apps Script)](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script)** — Processamento em lote com normalização de dados, consulta a APIs públicas com *fallback* e auditoria em planilha.
-3. **[Sistema de Orçamentação Técnica Automatizada](https://github.com/Kgasil/sistema-orcamentacao-tecnica-automatizada)** — Consolidação de custos, precificação por *markup* divisor e validação de margem de viabilidade.
-4. **[Integração de Fluxos e Webhooks (n8n / Make)](https://github.com/Kgasil/integracao-crm-webhooks-n8n-make)** — Estruturação de fluxo via webhook com higienização de dados, triagem por prioridade e tratamento de erros.
-5. **[Sistema de Controle de Demandas — Full Stack](https://github.com/Kgasil/sistema-controle-demandas-fullstack)** — Aplicação com banco relacional em **SQL**, API em **Python (Flask)** e interface em **HTML/CSS/JS**.
-6. **[Gestão e Priorização de Demandas em Java](https://github.com/Kgasil/gestao-prioridade-demandas-java)** — Módulo em **Java (POO)** com pontuação de prioridade, SLA e validação de limites de aprovação.
+* **Data Analysis & BI:** Data cleaning and cross-referencing, **SQL** queries, operational KPIs (such as *MTTR* and *downtime*), and data-driven decision support.
+* **Automation & Integrations:** Eliminating manual work with **Google Apps Script**, **REST APIs**, **Webhooks**, **n8n**, and **Make**.
+* **Development & Logic:** **Full Stack** applications (**Python/Flask**, **SQL**, **HTML/JS**) and business logic in **Java (OOP)**.
 
 ---
 
-## 🛠️ Principais Ferramentas
+## 🚀 Featured Projects
 
-`SQL` • `Python` • `Java` • `Google Apps Script` • `Excel / Planilhas` • `Power BI` • `HTML / CSS / JS` • `n8n` • `Make` • `APIs & Webhooks`
+1. **[Maintenance Data Analysis (SQL & BI)](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi)** — Relational SQL modeling, analytical queries for *downtime*, *MTTR*, and maintenance mix, plus a Python data-cleaning and cross-referencing script (`limpeza_e_cruzamento.py`).
+2. **[CNPJ Enrichment Automation (Google Apps Script)](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script)** — Batch processing with data normalization, public API lookup with *fallback*, and spreadsheet auditing.
+3. **[Automated Technical Quoting System](https://github.com/Kgasil/sistema-orcamentacao-tecnica-automatizada)** — Cost consolidation, divisor *markup* pricing, and margin viability validation.
+4. **[CRM & Webhook Workflow Integration (n8n / Make)](https://github.com/Kgasil/integracao-crm-webhooks-n8n-make)** — Webhook-driven flow with data sanitization, priority routing, and error handling.
+5. **[Demand Control System — Full Stack](https://github.com/Kgasil/sistema-controle-demandas-fullstack)** — Application built with relational **SQL**, **Python (Flask)** API, and **HTML/CSS/JS** interface.
+6. **[Demand Priority Management in Java](https://github.com/Kgasil/gestao-prioridade-demandas-java)** — **Java (OOP)** module for priority scoring, SLA tracking, and approval limit validation.
+
+---
+
+## 🛠️ Core Tools
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20%26%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Data%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-POO-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Web%20%26%20Scripts-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google%20Apps%20Script-Automação-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Apps%20Script-Automation-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+`Excel / Spreadsheets` • `Power BI` • `HTML / CSS / JS` • `n8n` • `Make` • `APIs & Webhooks`
