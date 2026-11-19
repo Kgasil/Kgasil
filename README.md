@@ -1,7 +1,8 @@
 # Hi, I'm Kaio Gabriel 👋
-> 🇧🇷 *Versão em português:* [Acessar portfólio em Português](https://github.com/Kgasil/portfolio-pt)
+
 Industrial Engineering student and Chemical Technician working at the intersection of **Data Analysis**, **Process Automation**, **Operations/Costing**, and **Software Development**. Looking for **remote (home office)** opportunities (as well as local hybrid roles), with primary focus on **Junior Data Analyst**, and open to **Process, Operations, Finance, Accounting, and Programming** roles.
 
+> 🇧🇷 *Versão em português:* [Acessar portfólio em Português](https://github.com/Kgasil/portfolio-pt)
 ---
 
 ## 📊 What I Deliver in Practice
