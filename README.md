@@ -1,33 +1,28 @@
-# Olá! Eu sou o Kaio Gabriel da Silva
+# Olá, eu sou o Kaio Gabriel 👋
 
-**Analista de Dados & Processos | Engenharia de Produção | Automação & Backoffice**  
-São José dos Campos, SP – Brasil
-
-Estudante de Engenharia de Produção (UNIVESP) com formação técnica em Química Industrial (CEPHAS) e foco em **Inteligência de Processos, Governança de Dados, Automação de Fluxos de Trabalho e Orçamentação Técnica**.
-
-Atuo transformando rotinas operacionais e administrativas manuais em fluxos automatizados, estruturados e orientados por indicadores (KPIs).
+Profissional em formação em **Engenharia de Produção** e com formação técnica em **Química**, atuando na interseção entre **Análise de Dados**, **Automação de Processos**, **Operações/Orçamentação** e **Desenvolvimento**. Busco oportunidades **home office** (e híbridas na região), com foco principal em **Análise de Dados Júnior**, além de vagas em **Processos, Operações, Finanças e Programação**.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 📊 O que eu entrego na prática
 
-* **Dados & BI:** Excel Avançado, Power Query, Power BI, SQL, Google Sheets
-* **Automação & Integrações:** Google Apps Script, JavaScript, APIs REST (JSON), Make, n8n, Axiom.ai, UI Vision
-* **Processos & Engenharia:** Mapeamento de Fluxos, Governança de CRM, 5S, 5W2H, Orçamentação Técnica & Precificação
-* **Idiomas:** Português (Nativo) | Inglês (Avançado / C1) | Espanhol (Intermediário / B1)
-
----
-
-### 📂 Projetos em Destaque
-
-* **[Enriquecimento Automatizado de Dados via API (Google Apps Script)](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script)** – Script em lote para consulta, tratamento de JSON e higienização de bases cadastrais via APIs públicas.
-* **[Sistema de Orçamentação Técnica Automatizada](https://github.com/Kgasil/sistema-orcamentacao-tecnica-automatizada)** – Estrutura automatizada para levantamento de custos, análise de viabilidade e geração de propostas comerciais.
-* **[Análise de Indicadores Operacionais e Manutenção (SQL & BI)](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi)** – Queries SQL e painel analítico de KPIs para controle de paradas (downtime) e planos de ação 5W2H.
-* **[Automação de Fluxos de Backoffice e Webhooks](https://github.com/Kgasil/integracao-crm-webhooks-n8n-make)** – Integração no-code/low-code entre formulários, planilhas e alertas operacionais.
+* **Análise de Dados & BI:** Tratamento e higienização de bases, consultas **SQL**, indicadores operacionais (como *MTTR* e *downtime*) e apoio à tomada de decisão.
+* **Automação & Integrações:** Redução de tarefas manuais com **Google Apps Script**, **APIs REST**, **Webhooks**, **n8n** e **Make**.
+* **Desenvolvimento & Lógica:** Aplicações **Full Stack** (**Python/Flask**, **SQL**, **HTML/JS**) e regras de negócio em **Java (POO)**.
 
 ---
 
-### 📫 Contato
+## 🚀 Projetos em Destaque
 
-* **LinkedIn:** [linkedin.com/in/kaio-gabriel-da-silva](https://www.linkedin.com/in/kaio-gabriel-da-silva/)
-* **E-mail:** kaiogabi014@gmail.com
+1. **[Análise de Dados de Manutenção (SQL & BI)](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi)** — Modelagem relacional em SQL e consultas analíticas para cálculo de *downtime*, *MTTR*, mix de manutenção e suporte a planos de ação 5W2H.
+2. **[Automação de Enriquecimento de CNPJ (Google Apps Script)](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script)** — Processamento em lote com normalização de dados, consulta a APIs públicas com *fallback* e auditoria em planilha.
+3. **[Sistema de Orçamentação Técnica Automatizada](https://github.com/Kgasil/sistema-orcamentacao-tecnica-automatizada)** — Consolidação de custos, precificação por *markup* divisor e validação de margem de viabilidade.
+4. **[Integração de Fluxos e Webhooks (n8n / Make)](https://github.com/Kgasil/integracao-crm-webhooks-n8n-make)** — Estruturação de fluxo via webhook com higienização de dados, triagem por prioridade e tratamento de erros.
+5. **[Sistema de Controle de Demandas — Full Stack](https://github.com/Kgasil/sistema-controle-demandas-fullstack)** — Aplicação com banco relacional em **SQL**, API em **Python (Flask)** e interface em **HTML/CSS/JS**.
+6. **[Gestão e Priorização de Demandas em Java](https://github.com/Kgasil/gestao-prioridade-demandas-java)** — Módulo em **Java (POO)** com pontuação de prioridade, SLA e validação de limites de aprovação.
+
+---
+
+## 🛠️ Principais Ferramentas
+
+`SQL` • `Python` • `Java` • `Google Apps Script` • `Excel / Planilhas` • `Power BI` • `HTML / CSS / JS` • `n8n` • `Make` • `APIs & Webhooks`
