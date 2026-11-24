@@ -1,4 +1,4 @@
-# Hi, I'm Kaio Gabriel 👋
+# Hi, I'm Kaio Gabriel 
 
 Industrial Engineering student and Chemical Technician working at the intersection of **Data Analysis**, **Process Automation**, **Operations/Costing**, and **Software Development**. Looking for **remote (home office)** opportunities (as well as local hybrid roles), with primary focus on **Junior Data Analyst**, and open to **Process, Operations, Finance, Accounting, and Programming** roles.
 
