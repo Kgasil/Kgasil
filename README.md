@@ -1,35 +1,99 @@
-# Hi, I'm Kaio Gabriel 
+# Kaio Gabriel da Silva
 
-Industrial Engineering student and Chemical Technician working at the intersection of **Data Analysis**, **Process Automation**, **Operations/Costing**, and **Software Development**. Looking for **remote (home office)** opportunities (as well as local hybrid roles), with primary focus on **Junior Data Analyst**, and open to **Process, Operations, Finance, Accounting, and Programming** roles.
+**Data Analytics · Process Automation · Operations · Applied AI**
 
-> 🇧🇷 *Versão em português:* [Acessar portfólio em Português](https://github.com/Kgasil/portfolio-pt)
+[English](#about) | [Português (Brasil)](#português-brasil) | [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva)
+
+## About
+
+Production Engineering student at UNIVESP (expected graduation: December 2027) and Industrial Chemistry technician. My professional background connects operational processes, CRM data governance, technical budgeting, reporting and workflow automation.
+
+I am currently strengthening my Python fundamentals and exploring applied AI through **Project Genesis**, my independent learning initiative. I am interested in junior opportunities in Data Analytics, BI, Data Quality, Process Automation and Operations Analytics, especially remote or hybrid roles.
+
+### Professional background
+
+- **Innove Consult:** CRM data quality, pipeline standardization, process indicators and automation.
+- **Bosch Home Comfort:** technical quoting, cost analysis and operational support.
+- **Johnson & Johnson:** operational support, spreadsheet automation and continuous improvement.
+
+### Tools & learning
+
+| Focus | Tools and topics |
+| --- | --- |
+| Analytics | SQL, Excel, Power BI, KPIs, data quality |
+| Automation | Google Apps Script, REST APIs, webhooks, n8n, Make |
+| Development practice | Python, Flask, Java, JavaScript, SQLite |
+| Current studies | Python fundamentals, data engineering foundations, AI and LLM integration |
+
+Languages: Portuguese (native), English (C1), Spanish (B1).
+
+## Portfolio
+
+The repositories below are demonstrations and learning projects, not claims of production deployment or independently verified business results. Some implementations are AI-assisted.
+
+| Project | Stack | Scope |
+| --- | --- | --- |
+| [Maintenance Analytics](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | Maintenance KPIs and synthetic data cleaning |
+| [CNPJ Data Enrichment](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script) | Apps Script, REST APIs | Registration data normalization and API fallback |
+| [Technical Quoting](https://github.com/Kgasil/sistema-orcamentacao-tecnica-automatizada) | Apps Script, Sheets | Cost and markup calculation |
+| [Backoffice Webhooks](https://github.com/Kgasil/integracao-crm-webhooks-n8n-make) | JSON, n8n / Make | Conceptual workflow specification |
+| [Demand Control](https://github.com/Kgasil/sistema-controle-demandas-fullstack) | Flask, SQLite, JavaScript | Local full-stack demo |
+| [Demand Prioritization](https://github.com/Kgasil/gestao-prioridade-demandas-java) | Java | Business-rule scoring and SLA |
+| [Application Follow-up](https://github.com/Kgasil/Active-Job-Application-Follow-up-Automation) | Apps Script, Gmail | Controlled individual outreach demo |
+| [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder) | Python, Streamlit, Groq | Project Genesis #001; guided learning and AI-assisted implementation |
+
+The Portuguese version of the application follow-up project is [available here](https://github.com/Kgasil/gmail-hr-outreach-automation).
+
+## Project Genesis
+
+A self-directed learning initiative covering programming, data and artificial intelligence. The first milestone is [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), a beginner chatbot exercise inspired by Data Science Academy. The goal is to progressively move from guided practice to independent development, testing and technical research.
+
 ---
 
-## 📊 What I Deliver in Practice
+# Português (Brasil)
 
-* **Data Analysis & BI:** Data cleaning and cross-referencing, **SQL** queries, operational KPIs (such as *MTTR* and *downtime*), and data-driven decision support.
-* **Automation & Integrations:** Eliminating manual work with **Google Apps Script**, **REST APIs**, **Webhooks**, **n8n**, and **Make**.
-* **Development & Logic:** **Full Stack** applications (**Python/Flask**, **SQL**, **HTML/JS**) and business logic in **Java (OOP)**.
+**Análise de Dados · Automação de Processos · Operações · IA Aplicada**
 
----
+Estudante de Engenharia de Produção na UNIVESP (previsão de conclusão: dezembro de 2027) e técnico em Química Industrial. Minha trajetória profissional conecta processos operacionais, governança de dados de CRM, orçamentação técnica, indicadores e automação de fluxos.
 
-## 🚀 Featured Projects
+Atualmente aprofundo os fundamentos de Python e exploro aplicações de IA por meio do **Project Genesis**, minha iniciativa independente de aprendizado. Busco oportunidades júnior em Análise de Dados, BI, Qualidade de Dados, Automação de Processos e Análise de Operações, especialmente remotas ou híbridas.
 
-1. **[Maintenance Data Analysis (SQL & BI)](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi)** — Relational SQL modeling, analytical queries for *downtime*, *MTTR*, and maintenance mix, plus a Python data-cleaning and cross-referencing script (`limpeza_e_cruzamento.py`).
-2. **[CNPJ Enrichment Automation (Google Apps Script)](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script)** — Batch processing with data normalization, public API lookup with *fallback*, and spreadsheet auditing.
-3. **[Automated Technical Quoting System](https://github.com/Kgasil/sistema-orcamentacao-tecnica-automatizada)** — Cost consolidation, divisor *markup* pricing, and margin viability validation.
-4. **[CRM & Webhook Workflow Integration (n8n / Make)](https://github.com/Kgasil/integracao-crm-webhooks-n8n-make)** — Webhook-driven flow with data sanitization, priority routing, and error handling.
-5. **[Demand Control System — Full Stack](https://github.com/Kgasil/sistema-controle-demandas-fullstack)** — Application built with relational **SQL**, **Python (Flask)** API, and **HTML/CSS/JS** interface.
-6. **[Demand Priority Management in Java](https://github.com/Kgasil/gestao-prioridade-demandas-java)** — **Java (OOP)** module for priority scoring, SLA tracking, and approval limit validation.
+### Experiência profissional
 
----
+- **Innove Consult:** qualidade de dados de CRM, padronização de pipeline, indicadores e automação.
+- **Bosch Home Comfort:** orçamentação técnica, análise de custos e suporte operacional.
+- **Johnson & Johnson:** suporte operacional, automação de planilhas e melhoria contínua.
 
-## 🛠️ Core Tools
+### Ferramentas e estudos
 
-![SQL](https://img.shields.io/badge/SQL-Data%20%26%20Queries-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Data%20%26%20Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-OOP-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web%20%26%20Scripts-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google%20Apps%20Script-Automation-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+| Área | Ferramentas e temas |
+| --- | --- |
+| Dados | SQL, Excel, Power BI, KPIs e qualidade de dados |
+| Automação | Google Apps Script, APIs REST, webhooks, n8n e Make |
+| Prática de desenvolvimento | Python, Flask, Java, JavaScript e SQLite |
+| Estudos atuais | Fundamentos de Python, engenharia de dados, IA e integração com LLMs |
 
-`Excel / Spreadsheets` • `Power BI` • `HTML / CSS / JS` • `n8n` • `Make` • `APIs & Webhooks`
+Idiomas: português nativo, inglês C1 e espanhol B1.
+
+## Portfólio
+
+Os repositórios são demonstrações e projetos de aprendizado, não comprovações de implantação em produção ou resultados empresariais validados. Algumas implementações foram assistidas por IA.
+
+| Projeto | Tecnologias | Escopo |
+| --- | --- | --- |
+| [Análise de manutenção](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | KPIs de manutenção e limpeza de dados fictícios |
+| [Enriquecimento de CNPJ](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script) | Apps Script, REST APIs | Normalização cadastral e API alternativa |
+| [Orçamentação técnica](https://github.com/Kgasil/sistema-orcamentacao-tecnica-automatizada) | Apps Script, Sheets | Cálculo de custos e markup |
+| [Webhooks de backoffice](https://github.com/Kgasil/integracao-crm-webhooks-n8n-make) | JSON, n8n / Make | Especificação conceitual de fluxo |
+| [Controle de demandas](https://github.com/Kgasil/sistema-controle-demandas-fullstack) | Flask, SQLite, JavaScript | Demonstração full stack local |
+| [Priorização de demandas](https://github.com/Kgasil/gestao-prioridade-demandas-java) | Java | Pontuação de prioridade e SLA |
+| [Follow-up de candidaturas](https://github.com/Kgasil/Active-Job-Application-Follow-up-Automation) | Apps Script, Gmail | Demonstração de acompanhamento individual |
+| [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder) | Python, Streamlit, Groq | Project Genesis #001; aprendizado guiado e implementação assistida por IA |
+
+A versão em português do projeto de follow-up está [aqui](https://github.com/Kgasil/gmail-hr-outreach-automation).
+
+## Project Genesis
+
+Iniciativa independente de formação em programação, dados e inteligência artificial. O primeiro marco é o [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), exercício introdutório inspirado na Data Science Academy. O objetivo é evoluir da prática guiada para desenvolvimento independente, testes e pesquisa técnica.
+
+[LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) · [Portfólio em português](https://github.com/Kgasil/portfolio-pt)
