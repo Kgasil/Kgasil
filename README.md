@@ -8,7 +8,7 @@
 
 [![K&G Vision — Intelligence Without Boundaries. Engineered for Trust.](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg)](https://kgasil.github.io/)
 
-K&G Vision is my independent technology initiative, connecting scientific studies, AI engineering and useful software. It is not an incorporated company or an offer of commercial services. The ecosystem has three distinct projects, each with its own website and repository.
+K&G Vision is my independent technology initiative, connecting scientific studies, AI engineering and useful software. It is not an incorporated company or an offer of commercial services. The ecosystem has four distinct projects, each with its own website and repository.
 
 ## Ecosystem / Ecossistema
 
@@ -18,8 +18,9 @@ K&G Vision is my independent technology initiative, connecting scientific studie
 | Project Genesis | [O Princípio](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | Independent studies; 10 review guides planned, none published / Estudos independentes; 10 guias previstos, nenhum publicado |
 | Project Vision | [Beyond Boundaries](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Naturally good. / Naturalmente bom.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
+| Project Lilium | [Where strategy meets intelligence.](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Business intelligence web app concept / Aplicação web de inteligência empresarial em planejamento |
 
-**Learn · Build · Simplify / Aprender · Construir · Simplificar**
+**Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
 
 ## About
@@ -82,6 +83,7 @@ A K&G Vision é minha iniciativa tecnológica independente, ainda não constitu�
 - [Project Genesis — O Princípio](https://kgasil.github.io/genesis/) — estudos independentes; 10 guias de revisão previstos, nenhum publicado.
 - [Project Vision — Além das fronteiras](https://kgasil.github.io/vision/) — laboratório demonstrativo V10.2 de integração, segurança, avaliação e desempenho de IA.
 - [Project Aeris — Naturalmente bom.](https://kgasil.github.io/aeris/) — conceito de aplicativo Windows e extensão Chromium; em planejamento, sem versão para download.
+- [Project Lilium](https://kgasil.github.io/lilium/) — aplicação web planejada de inteligência empresarial, análise e automação.
 
 As demonstrações do Vision são protótipos locais, não serviços de segurança em produção ou auditorias independentes. O Aeris ainda não possui ferramentas implementadas.
 
