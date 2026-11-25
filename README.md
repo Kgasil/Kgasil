@@ -17,7 +17,7 @@ K&G Vision is my independent technology initiative, connecting scientific studie
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
 | Project Genesis | [O Princípio](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | Independent studies; 10 review guides planned, none published / Estudos independentes; 10 guias previstos, nenhum publicado |
 | Project Vision | [Beyond Boundaries](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
-| Project Aeris | [Naturally / Naturalmente](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
+| Project Aeris | [Naturally good. / Naturalmente bom.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
 
 **Learn · Build · Simplify / Aprender · Construir · Simplificar**
 
@@ -81,7 +81,7 @@ A K&G Vision é minha iniciativa tecnológica independente, ainda não constitu�
 - [K&G Vision](https://kgasil.github.io/) — apresentação institucional.
 - [Project Genesis — O Princípio](https://kgasil.github.io/genesis/) — estudos independentes; 10 guias de revisão previstos, nenhum publicado.
 - [Project Vision — Além das fronteiras](https://kgasil.github.io/vision/) — laboratório demonstrativo V10.2 de integração, segurança, avaliação e desempenho de IA.
-- [Project Aeris — Naturalmente](https://kgasil.github.io/aeris/) — conceito de aplicativo Windows e extensão Chromium; em planejamento, sem versão para download.
+- [Project Aeris — Naturalmente bom.](https://kgasil.github.io/aeris/) — conceito de aplicativo Windows e extensão Chromium; em planejamento, sem versão para download.
 
 As demonstrações do Vision são protótipos locais, não serviços de segurança em produção ou auditorias independentes. O Aeris ainda não possui ferramentas implementadas.
 
