@@ -15,7 +15,7 @@ K&G Vision is my independent technology initiative, built around four distinct a
 | Project | Website | Repository | Current stage / Etapa atual |
 | --- | --- | --- | --- |
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
-| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | Independent studies; 10 review guides planned, none published / Estudos independentes; 10 guias previstos, nenhum publicado |
+| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75 private study PDFs; [interactive public library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs de estudo privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html) |
 | Project Vision | [Security & Efficiency](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
 | Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Local metrics prototype; business suite planned / Protótipo local de indicadores; aplicação empresarial em planejamento |
@@ -67,7 +67,7 @@ The Portuguese version of the application follow-up project is [available here](
 
 ## Project Genesis
 
-A self-directed learning initiative covering programming, data and artificial intelligence. The first milestone is [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), a beginner chatbot exercise inspired by Data Science Academy. The goal is to progressively move from guided practice to independent development, testing and technical research, with a long-term focus on AI integration, security and assurance. Genesis is the independent study project; Vision is the applied laboratory. Genesis plans 10 public review guides from 75 planned documents, none published yet. It is not an educational institution and does not offer courses or certificates. [Visit Genesis](https://kgasil.github.io/genesis/).
+A self-directed learning initiative covering programming, data and artificial intelligence. The first milestone is [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), a beginner chatbot exercise inspired by Data Science Academy. The goal is to progressively move from guided practice to independent development, testing and technical research, with a long-term focus on AI integration, security and assurance. Genesis is the independent study project; Vision is the applied laboratory. The AI-assisted editorial collection now comprises 75 private study PDFs, 3,277 pages, 60 topic volumes, 10 integrated guides and 5 companion documents. Its [public library](https://kgasil.github.io/genesis/biblioteca.html) contains 11 reading areas, 22 optional expandable reading folders, 11 mini labs, 11 explained challenges, bilingual search and local reading marks. Full PDFs can be requested directly via [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). Editorial completion does not imply that I have completed all the studies. It is not an educational institution and does not offer courses or certificates. [Visit Genesis](https://kgasil.github.io/genesis/).
 
 ---
 
@@ -80,7 +80,7 @@ A self-directed learning initiative covering programming, data and artificial in
 A K&G Vision é minha iniciativa tecnológica independente, ainda não constituída como empresa. Conecta estudos científicos, pesquisa em engenharia de IA e desenvolvimento de ferramentas úteis. Não oferece serviços comerciais atualmente.
 
 - [K&G Vision](https://kgasil.github.io/) — apresentação institucional.
-- [Project Genesis — Sabedoria e Aplicação](https://kgasil.github.io/genesis/) — estudos independentes; 10 guias de revisão previstos, nenhum publicado.
+- [Project Genesis — Sabedoria e Aplicação](https://kgasil.github.io/genesis/) — acervo independente de 75 PDFs privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html).
 - [Project Vision — Segurança e Eficiência](https://kgasil.github.io/vision/) — laboratório demonstrativo V10.2 de integração, segurança, avaliação e desempenho de IA.
 - [Project Aeris — Discreto e Eficiente.](https://kgasil.github.io/aeris/) — conceito de aplicativo Windows e extensão Chromium; em planejamento, sem versão para download.
 - [Project Lilium](https://kgasil.github.io/lilium/) — protótipo local de indicadores e aplicação web empresarial em planejamento.
@@ -89,7 +89,7 @@ As demonstrações do Vision são protótipos locais, não serviços de seguran�
 
 Estudante de Engenharia de Produção na UNIVESP (previsão de conclusão: dezembro de 2027) e técnico em Química Industrial. Minha trajetória profissional conecta processos operacionais, governança de dados de CRM, orçamentação técnica, indicadores e automação de fluxos.
 
-Atualmente aprofundo os fundamentos de Python, engenharia de dados, desenvolvimento de software e segurança de IA por meio do **Project Genesis**, minha iniciativa independente de aprendizado. A O **Project Vision** é o laboratório de pesquisa e engenharia aplicada do ecossistema K&G Vision. Busco oportunidades júnior em Análise de Dados, BI, Qualidade de Dados, Automação de Processos e Análise de Operações, especialmente remotas ou híbridas.
+Atualmente aprofundo os fundamentos de Python, engenharia de dados, desenvolvimento de software e segurança de IA por meio do **Project Genesis**, minha iniciativa independente de aprendizado. O **Project Vision** é o laboratório de pesquisa e engenharia aplicada do ecossistema K&G Vision. Busco oportunidades júnior em Análise de Dados, BI, Qualidade de Dados, Automação de Processos e Análise de Operações, especialmente remotas ou híbridas.
 
 ### Experiência profissional
 
@@ -129,7 +129,7 @@ A versão em português do projeto de follow-up está [aqui](https://github.com/
 
 ## Project Genesis
 
-Projeto próprio de estudos e pesquisa em programação, dados e inteligência artificial. O primeiro marco é o [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), exercício introdutório inspirado na Data Science Academy. O objetivo é evoluir da prática guiada para desenvolvimento independente, testes e pesquisa técnica, com foco futuro em integração, segurança e confiabilidade de IA. O Genesis é o projeto de estudos; o Vision é o laboratório de aplicação. Dos 75 documentos planejados, pretendemos publicar 10 guias de revisão, ainda indisponíveis. Não somos uma instituição de ensino e não oferecemos cursos ou certificados. [Conheça Genesis](https://kgasil.github.io/genesis/).
+Projeto próprio de estudos e pesquisa em programação, dados e inteligência artificial. O primeiro marco é o [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), exercício introdutório inspirado na Data Science Academy. O objetivo é evoluir da prática guiada para desenvolvimento independente, testes e pesquisa técnica, com foco futuro em integração, segurança e confiabilidade de IA. O Genesis é o projeto de estudos; o Vision é o laboratório de aplicação. O acervo editorial assistido por IA reúne 75 PDFs privados, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e cinco documentos complementares. A [biblioteca pública](https://kgasil.github.io/genesis/biblioteca.html) oferece 11 áreas, 22 pastas de leitura opcionais, 11 mini laboratórios, 11 desafios comentados, busca bilíngue e marcações de leitura locais. Os PDFs completos podem ser solicitados diretamente pelo [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). A conclusão editorial não significa que concluí todos os estudos. Não somos uma instituição de ensino e não oferecemos cursos ou certificados. [Conheça Genesis](https://kgasil.github.io/genesis/).
 
 [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) · [Portfólio em português](https://github.com/Kgasil/portfolio-pt)
 
