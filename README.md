@@ -18,7 +18,7 @@ K&G Vision is my independent technology initiative, built around four distinct a
 | Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75 private study PDFs; [interactive public library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs de estudo privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html) |
 | Project Vision | [Security & Efficiency](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
 | Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
-| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Local metrics prototype; business suite planned / Protótipo local de indicadores; aplicação empresarial em planejamento |
+| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Interactive browser lab and local Workspace v0.14 preview; Windows validation pending / Laboratório interativo e prévia local do Workspace v0.14; validação Windows pendente |
 
 **Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
@@ -83,7 +83,7 @@ A K&G Vision é minha iniciativa tecnológica independente, ainda não constitu�
 - [Project Genesis — Sabedoria e Aplicação](https://kgasil.github.io/genesis/) — acervo independente de 75 PDFs privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html).
 - [Project Vision — Segurança e Eficiência](https://kgasil.github.io/vision/) — laboratório demonstrativo V10.2 de integração, segurança, avaliação e desempenho de IA.
 - [Project Aeris — Discreto e Eficiente.](https://kgasil.github.io/aeris/) — conceito de aplicativo Windows e extensão Chromium; em planejamento, sem versão para download.
-- [Project Lilium](https://kgasil.github.io/lilium/) — protótipo local de indicadores e aplicação web empresarial em planejamento.
+- [Project Lilium](https://kgasil.github.io/lilium/) — laboratório público de ferramentas empresariais e Workspace local v0.14 em validação.
 
 As demonstrações do Vision são protótipos locais, não serviços de segurança em produção ou auditorias independentes. O Aeris ainda não possui ferramentas implementadas.
 
@@ -143,4 +143,4 @@ Official visual lockup: **K&G** above **Vision**; individual project symbols are
 
 **Genesis (purple) · Vision (blue) · Aeris (green) · Lilium (rose)**
 
-[Experimentar Lilium Insights / Try Lilium Insights (PT-BR)](https://kgasil.github.io/lilium/demo.html) — local prototype, no connected AI or commercial offering.
+[Lilium Interactive Lab / Laboratório interativo](https://kgasil.github.io/lilium/#lab) · [Insights CSV demo](https://kgasil.github.io/lilium/demo.html) — browser-based synthetic exercises; no connected AI or commercial offering.
