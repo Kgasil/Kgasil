@@ -22,6 +22,9 @@
   <a href="https://kgasil.github.io/portfolio/lab.html?lang=en">Interactive lab / Laboratório</a>
 </p>
 
+<!-- kg-personal-portfolio-v1 -->
+<p align="center"><strong>KG Professional Portfolio 1.0</strong> · 7 projects · 7 case studies · 5 interactive demos · PT/EN</p>
+
 ---
 
 ## About
