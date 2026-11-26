@@ -65,11 +65,11 @@ Five complementary projects, each with its own purpose, identity and development
 
 | Project | Purpose | Explore |
 | --- | --- | --- |
-| 🟣 **Genesis** | Wisdom & Application — independent study and knowledge sharing | [Website](https://kgasil.github.io/genesis/) · [Repository](https://github.com/Kgasil/genesis) |
-| 🟠 **Rubedo** | Science & Innovation — applied research, simulation and experimentation | [Website](https://kgasil.github.io/rubedo/) · [Repository](https://github.com/Kgasil/rubedo) |
-| 🔵 **Argus** | Security & Development — AI integration, evaluation and security research | [Website](https://kgasil.github.io/argus/) · [Repository](https://github.com/Kgasil/argus) |
-| 🟢 **Aeris** | Efficiency & Simplicity — practical productivity tools | [Website](https://kgasil.github.io/aeris/) · [Repository](https://github.com/Kgasil/aeris) |
-| 🔴 **Lilium** | Strategy & Growth — business intelligence and financial analysis | [Website](https://kgasil.github.io/lilium/) · [Repository](https://github.com/Kgasil/lilium) |
+| <img src="assets/dot-genesis.svg" width="14" height="14" alt=""> **Genesis** | Wisdom & Application — independent study and knowledge sharing | [Website](https://kgasil.github.io/genesis/) · [Repository](https://github.com/Kgasil/genesis) |
+| <img src="assets/dot-rubedo.svg" width="14" height="14" alt=""> **Rubedo** | Science & Innovation — applied research, simulation and experimentation | [Website](https://kgasil.github.io/rubedo/) · [Repository](https://github.com/Kgasil/rubedo) |
+| <img src="assets/dot-argus.svg" width="14" height="14" alt=""> **Argus** | Security & Development — AI integration, evaluation and security research | [Website](https://kgasil.github.io/argus/) · [Repository](https://github.com/Kgasil/argus) |
+| <img src="assets/dot-aeris.svg" width="14" height="14" alt=""> **Aeris** | Efficiency & Simplicity — practical productivity tools | [Website](https://kgasil.github.io/aeris/) · [Repository](https://github.com/Kgasil/aeris) |
+| <img src="assets/dot-lilium.svg" width="14" height="14" alt=""> **Lilium** | Strategy & Growth — business intelligence and financial analysis | [Website](https://kgasil.github.io/lilium/) · [Repository](https://github.com/Kgasil/lilium) |
 
 **Learn · Discover · Build · Simplify · Transform**
 
