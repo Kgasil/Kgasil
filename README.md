@@ -163,13 +163,16 @@ Projeto próprio de estudos e pesquisa em programação, dados e inteligência a
 
 ## Identidade K&G Vision / K&G Vision identity
 
-[![K&G Vision — stacked wordmark, four-project identity](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg)](https://kgasil.github.io/)
+[![K&G Vision — stacked wordmark, five-project GRAAL identity](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg)](https://kgasil.github.io/)
 
 [Versão vertical / Vertical lockup](https://github.com/Kgasil/kgasil.github.io/blob/main/assets/brand-stacked.svg) · [Escudo / Shield](https://github.com/Kgasil/kgasil.github.io/blob/main/assets/kg-symbol.svg)
 
 Official visual lockup: **K&G** above **Vision**; individual project symbols are retained. / Assinatura visual oficial: **K&G** acima de **Vision**, mantendo os símbolos individuais dos projetos.
 
 **Genesis (purple) · Rubedo (orange/gold) · Argus (blue) · Aeris (green) · Lilium (rose)**
+
+O escudo institucional preserva as quatro cores laterais e o núcleo branco; Rubedo ocupa apenas as pontas centrais superior (laranja) e inferior (dourado). / The institutional shield preserves its four side colors and white core; Rubedo occupies only the upper (orange) and lower (gold) central tips.
+
 
 [Lilium Interactive Lab / Laboratório interativo](https://kgasil.github.io/lilium/#lab) · [Insights CSV demo](https://kgasil.github.io/lilium/demo.html) — browser-based synthetic exercises; no connected AI or commercial offering.
 
