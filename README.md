@@ -17,7 +17,7 @@ K&G Vision is my independent technology initiative, built around four distinct a
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
 | Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75 private study PDFs; [interactive public library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs de estudo privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html) |
 | Project Vision | [Security and Development](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
-| Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Product concept; no downloadable release / Conceito de produto; sem versão para download |
+| Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Desktop RC1; Extension 1.0.0 build ready, ZIP upload pending / Desktop RC1; Extensão 1.0.0 empacotada, upload dos ZIPs pendente |
 | Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Web Lab 1.0 public demo; Desktop v0.14.0 controlled preview; [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) GitHub-only experimental extension. / Web Lab 1.0 público; Desktop v0.14.0 em prévia controlada; Mini v0.1.1 experimental pelo GitHub. |
 
 **Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
@@ -82,10 +82,10 @@ A K&G Vision é minha iniciativa tecnológica independente, ainda não constitu�
 - [K&G Vision](https://kgasil.github.io/) — apresentação institucional.
 - [Project Genesis — Sabedoria e Aplicação](https://kgasil.github.io/genesis/) — acervo independente de 75 PDFs privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html).
 - [Project Vision — Segurança e Desenvolvimento](https://kgasil.github.io/vision/) — laboratório demonstrativo V10.2 de integração, segurança, avaliação e desempenho de IA.
-- [Project Aeris — Discreto e Eficiente.](https://kgasil.github.io/aeris/) — conceito de aplicativo Windows e extensão Chromium; em planejamento, sem versão para download.
+- [Project Aeris — Discreto e Eficiente.](https://kgasil.github.io/aeris/) — Desktop RC1 e extensão Chromium 1.0.0 empacotada, com 16 ferramentas; upload dos ZIPs pendente.
 - [Project Lilium](https://kgasil.github.io/lilium/) — Web Lab 1.0 público, Workspace local v0.14.0 em prévia controlada e [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) experimental pelo GitHub.
 
-As demonstrações do Vision são protótipos locais, não serviços de segurança em produção ou auditorias independentes. O Aeris ainda não possui ferramentas implementadas.
+As demonstrações do Vision são protótipos locais, não serviços de segurança em produção ou auditorias independentes. O Aeris possui 50 ferramentas desktop em protótipo e 16 ferramentas na extensão Chromium 1.0.0; validação independente e upload dos ZIPs da extensão ainda pendentes.
 
 Estudante de Engenharia de Produção na UNIVESP (previsão de conclusão: dezembro de 2027) e técnico em Química Industrial. Minha trajetória profissional conecta processos operacionais, governança de dados de CRM, orçamentação técnica, indicadores e automação de fluxos.
 
@@ -148,3 +148,5 @@ Official visual lockup: **K&G** above **Vision**; individual project symbols are
 **Lilium Mini v0.1.1 — GitHub-only / exclusivamente pelo GitHub:** [Installation tutorial / Tutorial de instalação](https://github.com/Kgasil/lilium/tree/main/extension) · Chrome & Edge, manual installation with synthetic data / instalação manual com dados fictícios. Not published in extension stores / não publicado nas lojas.
 
 **25 NOV 2026 — Lilium Web Lab 1.0:** [Comunicado / Announcement](https://github.com/Kgasil/lilium/blob/main/docs/web-lab-v1.0.md) · Public browser demonstrations / Demonstrações públicas no navegador. Desktop v0.14.0 remains a controlled preview / continua em prévia controlada.
+
+**Aeris Extension 1.0.0** — 16 ferramentas, 50 testes automatizados aprovados; distribuição manual planejada, ZIPs aguardando upload. / 16 tools, 50 automated tests passed; manual distribution planned, ZIP upload pending. [Instalação / Installation](https://kgasil.github.io/aeris/extension-preview.html) · [Notas / Release notes](https://github.com/Kgasil/aeris/blob/main/release/extension-1.0.0-notes.md).
