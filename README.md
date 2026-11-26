@@ -10,6 +10,12 @@
   <a href="#português-brasil">Português</a>
 </p>
 
+<p align="center">
+  <a href="https://kgasil.github.io/portfolio/">
+    <img src="assets/personal-portfolio.svg" alt="Visit my personal website — explore my experience, projects and professional journey" width="900">
+  </a>
+</p>
+
 ---
 
 ## About
