@@ -25,6 +25,11 @@
 <!-- kg-personal-portfolio-v1 -->
 <p align="center"><strong>KG Professional Portfolio 1.0</strong> · 7 projects · 7 case studies · 5 interactive demos · PT/EN</p>
 
+<!-- kg-current-training -->
+**Formação complementar em andamento / Ongoing supplementary training:** Data Science Academy — Fundamentos de Data Science e Inteligência Artificial (24 h), Fundamentos de Engenharia de Dados (24 h), Fundamentos de Python (96 h), Microsoft Power BI para Business Intelligence e Data Science; Coddy — Java. Cursos em andamento, não certificados concluídos / Courses in progress, not completed certifications.
+
+**Projetos demonstrativos / Demonstrative projects:** SQL/Python maintenance analytics; Apps Script/REST data quality; pricing, Flask/SQLite and Java operations; guided Python/Streamlit/Groq AI prototype. [Public résumé / Currículo público](https://kgasil.github.io/portfolio/resume.html).
+
 ---
 
 ## About
