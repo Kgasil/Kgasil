@@ -16,6 +16,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://kgasil.github.io/portfolio/resume.html?lang=en">Professional résumé / Currículo</a> ·
+  <a href="https://kgasil.github.io/portfolio/cases.html?lang=en">Case studies / Estudos de caso</a> ·
+  <a href="https://kgasil.github.io/portfolio/lab.html?lang=en">Interactive lab / Laboratório</a>
+</p>
+
 ---
 
 ## About
