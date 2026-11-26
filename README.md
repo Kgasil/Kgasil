@@ -4,6 +4,7 @@
 <p align="center">Connecting engineering, business operations and technology to solve practical problems.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaio-gabriel-da-silva">LinkedIn</a> ·
+  <a href="https://kgasil.github.io/portfolio/">Personal website</a> ·
   <a href="https://kgasil.github.io/">K&amp;G Vision</a> ·
   <a href="#portfolio">Technical portfolio</a> ·
   <a href="#português-brasil">Português</a>
@@ -256,6 +257,8 @@ O escudo institucional preserva as quatro cores laterais e o núcleo branco; Rub
 ---
 
 ## Let's connect
+
+[Personal website / Portfólio pessoal](https://kgasil.github.io/portfolio/)
 
 I welcome conversations about analytics, automation, engineering, applied AI and meaningful technology projects.
 
