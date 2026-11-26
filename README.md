@@ -1,20 +1,74 @@
-# Kaio Gabriel da Silva
+<h1 align="center">Kaio Gabriel da Silva</h1>
 
-**Data Analytics · Process Automation · Applied AI · AI Security (learning focus)**
+<p align="center"><strong>Data & Analytics · Process Automation · Applied AI</strong></p>
+<p align="center">Connecting engineering, business operations and technology to solve practical problems.</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kaio-gabriel-da-silva">LinkedIn</a> ·
+  <a href="https://kgasil.github.io/">K&amp;G Vision</a> ·
+  <a href="#portfolio">Technical portfolio</a> ·
+  <a href="#português-brasil">Português</a>
+</p>
 
-[English](#about) | [Português (Brasil)](#português-brasil) | [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) | [K&G Vision](https://kgasil.github.io/)
+---
 
-## Featured initiative — K&G Vision
+## About
+
+I am a Production Engineering student at UNIVESP, with a technical background in Industrial Chemistry and professional experience across data governance, business processes, technical costing and industrial operations.
+
+What motivates me is understanding how things work — and finding ways to make them work better. I enjoy turning fragmented information into useful insights, reducing repetitive work through automation and translating business needs into practical technical solutions.
+
+My professional direction brings together analytics, engineering and applied artificial intelligence. I am developing my foundations in software and data engineering, with a long-term interest in AI integration, security and assurance. I value clear documentation, responsible experimentation and technology that serves people rather than adding unnecessary complexity.
+
+### Professional experience
+
+| Organization | Focus |
+| --- | --- |
+| **Innove Consult** | CRM data governance, data quality, pipeline standardization, process indicators and workflow automation |
+| **Bosch Home Comfort** | Technical proposals, cost analysis, pricing and coordination between commercial and technical teams |
+| **Johnson & Johnson** | Industrial operations, spreadsheet automation, traceability and continuous improvement |
+
+### Technical capabilities
+
+| Area | Tools & practices |
+| --- | --- |
+| Data & business intelligence | SQL, Excel, Power BI, KPIs, reporting and data quality |
+| Process automation & integration | Google Apps Script, REST APIs, webhooks, n8n, Make |
+| Software development practice | Python, Flask, Java, JavaScript, SQLite |
+| Research & ongoing development | Data engineering, LLM integration, AI evaluation, security and assurance |
+
+**Education:** Production Engineering — UNIVESP (expected Dec 2027) · Industrial Chemistry technician
+
+**Languages:** Portuguese (native) · English (C1) · Spanish (B1)
+
+**Career interests:** Data Analytics, Business Intelligence, Data Quality, Process Automation and Operations Analytics. Open to junior remote and hybrid opportunities.
+
+---
+
+## K&G Vision — Independent technology initiative
 
 [![K&G Vision — Intelligence Without Boundaries. Engineered for Trust.](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg?v=20261126-2)](https://kgasil.github.io/)
 
-K&G Vision is my independent technology initiative, built around five distinct ambitions: advance knowledge, investigate through applied science, engineer trustworthy AI, simplify everyday work and empower business growth. Each project has its own website and repository. The initiative is not an incorporated company and does not currently offer commercial services.
+K&G Vision is where I bring my curiosity, technical studies and product ideas together. It is an independent initiative I am building around a simple belief: knowledge becomes more valuable when it is applied thoughtfully.
 
-> **K&G Vision — Ecosystem 1.0 milestone / Marco 1.0 do ecossistema** · 25/11/2026. Four public-facing deliverables across independent study, applied AI research, productivity and business intelligence. / Quatro entregas públicas em estudo independente, pesquisa aplicada de IA, produtividade e inteligência empresarial.
+The long-term vision is to connect applied science, reliable AI engineering, productivity and business intelligence through accessible tools and documented research. The initiative is not an incorporated company and does not currently offer commercial services.
 
-> **Marco 01 — GRAAL (26/11/2026).** Five independent projects: Genesis, Rubedo, Argus, Aeris and Lilium. / Cinco projetos independentes; Rubedo integra o ecossistema, sem modificar os marcos anteriores.
+**GRAAL · Milestone 01 — November 26, 2026**
 
-## GRAAL — Ecosystem / Ecossistema · Marco 01
+Five complementary projects, each with its own purpose, identity and development roadmap.
+
+| Project | Purpose | Explore |
+| --- | --- | --- |
+| 🟣 **Genesis** | Wisdom & Application — independent study and knowledge sharing | [Website](https://kgasil.github.io/genesis/) · [Repository](https://github.com/Kgasil/genesis) |
+| 🟠 **Rubedo** | Science & Innovation — applied research, simulation and experimentation | [Website](https://kgasil.github.io/rubedo/) · [Repository](https://github.com/Kgasil/rubedo) |
+| 🔵 **Argus** | Security & Development — AI integration, evaluation and security research | [Website](https://kgasil.github.io/argus/) · [Repository](https://github.com/Kgasil/argus) |
+| 🟢 **Aeris** | Efficiency & Simplicity — practical productivity tools | [Website](https://kgasil.github.io/aeris/) · [Repository](https://github.com/Kgasil/aeris) |
+| 🩷 **Lilium** | Strategy & Growth — business intelligence and financial analysis | [Website](https://kgasil.github.io/lilium/) · [Repository](https://github.com/Kgasil/lilium) |
+
+**Learn · Discover · Build · Simplify · Transform**
+
+<details>
+<summary><strong>Project milestones, versions and installation links</strong></summary>
+
 
 | Project | Website | Repository | Current stage / Etapa atual |
 | --- | --- | --- | --- |
@@ -30,30 +84,8 @@ K&G Vision is my independent technology initiative, built around five distinct a
 **Learn · Discover · Build · Simplify · Transform / Aprender · Descobrir · Construir · Simplificar · Transformar**
 
 
-## About
 
-Production Engineering student at UNIVESP (expected graduation: December 2027) and Industrial Chemistry technician. My professional background connects operational processes, CRM data governance, technical budgeting, reporting and workflow automation.
-
-I am currently strengthening my Python fundamentals and studying data engineering, software development and AI security through **Project Genesis**, my independent learning initiative. **Project Argus** is the applied research and engineering laboratory within the K&G Vision ecosystem. I am interested in junior opportunities in Data Analytics, BI, Data Quality, Process Automation and Operations Analytics, especially remote or hybrid roles.
-
-### Professional background
-
-- **Innove Consult:** CRM data quality, pipeline standardization, process indicators and automation.
-- **Bosch Home Comfort:** technical quoting, cost analysis and operational support.
-- **Johnson & Johnson:** operational support, spreadsheet automation and continuous improvement.
-
-### Tools & learning
-
-| Focus | Tools and topics |
-| --- | --- |
-| Analytics | SQL, Excel, Power BI, KPIs, data quality |
-| Automation | Google Apps Script, REST APIs, webhooks, n8n, Make |
-| Development practice | Python, Flask, Java, JavaScript, SQLite |
-| Current studies | Python fundamentals, data engineering foundations, AI and LLM integration |
-
-Languages: Portuguese (native), English (C1), Spanish (B1).
-
-### Quick access / Acesso rápido
+### Quick access
 
 | Project | Web tools / Ferramentas web | Installation / Instalação |
 | --- | --- | --- |
@@ -64,6 +96,11 @@ Languages: Portuguese (native), English (C1), Spanish (B1).
 | Lilium | [Web Lab](https://kgasil.github.io/lilium/demo.html) | [Mini Extension (preview)](https://github.com/Kgasil/lilium/tree/main/extension) |
 
 Genesis Mini and Argus Mini v0.1.0 are free complementary previews, not new milestones. / Genesis Mini e Argus Mini v0.1.0 são prévias complementares gratuitas, sem alteração dos marcos originais.
+
+
+</details>
+
+---
 
 ## Portfolio
 
@@ -88,13 +125,31 @@ The repositories below are demonstrations and learning projects, not claims of p
 
 The Portuguese version of the application follow-up project is [available here](https://github.com/Kgasil/gmail-hr-outreach-automation).
 
-## Project Genesis
+
+<details>
+<summary><strong>My independent learning roadmap — Project Genesis</strong></summary>
+
 
 A self-directed learning initiative covering programming, data and artificial intelligence. The first milestone is [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), a beginner chatbot exercise inspired by Data Science Academy. The goal is to progressively move from guided practice to independent development, testing and technical research, with a long-term focus on AI integration, security and assurance. Genesis is the independent study project; Argus is the applied laboratory. The AI-assisted editorial collection now comprises 75 private study PDFs, 3,277 pages, 60 topic volumes, 10 integrated guides and 5 companion documents. Its [public library](https://kgasil.github.io/genesis/biblioteca.html) contains 11 reading areas, 22 optional expandable reading folders, 11 mini labs, 11 explained challenges, bilingual search and local reading marks. [Genesis Mini](https://kgasil.github.io/genesis/mini/) and its [browser extension](https://kgasil.github.io/genesis/#instalar-extensao) offer complementary reading and exercise support, without changing the original milestone. Full PDFs can be requested directly via [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). Editorial completion does not imply that I have completed all the studies. It is not an educational institution and does not offer courses or certificates. [Visit Genesis](https://kgasil.github.io/genesis/).
 
+
+</details>
+
 ---
 
-# Português (Brasil)
+## Português (Brasil)
+
+**Análise de Dados · Automação de Processos · IA Aplicada**
+
+Sou estudante de Engenharia de Produção na UNIVESP e técnico em Química Industrial. Minha trajetória passa por operações industriais, análise de custos, governança de dados e automação de processos.
+
+Gosto de entender como as coisas funcionam e encontrar maneiras de melhorá-las. Meu objetivo profissional é aproximar tecnologia e negócios, transformando informações em decisões mais claras e processos em soluções mais eficientes.
+
+A K&G Vision nasceu dessa curiosidade: é meu espaço independente para estudar, pesquisar, experimentar e desenvolver ferramentas úteis. Busco evoluir com responsabilidade, consistência e transparência, especialmente nas áreas de dados, engenharia de software e inteligência artificial.
+
+<details>
+<summary><strong>Experiência, competências, projetos e portfólio em português</strong></summary>
+
 
 **Análise de Dados · Automação de Processos · IA Aplicada · Segurança de IA (em formação)**
 
@@ -157,9 +212,17 @@ A versão em português do projeto de follow-up está [aqui](https://github.com/
 
 ## Project Genesis
 
-Projeto próprio de estudos e pesquisa em programação, dados e inteligência artificial. O primeiro marco é o [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), exercício introdutório inspirado na Data Science Academy. O objetivo é evoluir da prática guiada para desenvolvimento independente, testes e pesquisa técnica, com foco futuro em integração, segurança e confiabilidade de IA. O Genesis é o projeto de estudos; o Vision é o laboratório de aplicação. O acervo editorial assistido por IA reúne 75 PDFs privados, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e cinco documentos complementares. A [biblioteca pública](https://kgasil.github.io/genesis/biblioteca.html) oferece 11 áreas, 22 pastas de leitura opcionais, 11 mini laboratórios, 11 desafios comentados, busca bilíngue e marcações de leitura locais. Os PDFs completos podem ser solicitados diretamente pelo [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). A conclusão editorial não significa que concluí todos os estudos. Não somos uma instituição de ensino e não oferecemos cursos ou certificados. [Conheça Genesis](https://kgasil.github.io/genesis/).
+Projeto próprio de estudos e pesquisa em programação, dados e inteligência artificial. O primeiro marco é o [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), exercício introdutório inspirado na Data Science Academy. O objetivo é evoluir da prática guiada para desenvolvimento independente, testes e pesquisa técnica, com foco futuro em integração, segurança e confiabilidade de IA. O Genesis é o projeto de estudos; o Argus é o laboratório de aplicação. O acervo editorial assistido por IA reúne 75 PDFs privados, 3.277 páginas, 60 volumes temáticos, 10 guias integrados e cinco documentos complementares. A [biblioteca pública](https://kgasil.github.io/genesis/biblioteca.html) oferece 11 áreas, 22 pastas de leitura opcionais, 11 mini laboratórios, 11 desafios comentados, busca bilíngue e marcações de leitura locais. Os PDFs completos podem ser solicitados diretamente pelo [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). A conclusão editorial não significa que concluí todos os estudos. Não somos uma instituição de ensino e não oferecemos cursos ou certificados. [Conheça Genesis](https://kgasil.github.io/genesis/).
 
 [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) · [Portfólio em português](https://github.com/Kgasil/portfolio-pt)
+
+
+</details>
+
+---
+
+<details>
+<summary><strong>Brand identity, release notes and ecosystem documentation / Identidade visual e documentação</strong></summary>
 
 ## Identidade K&G Vision / K&G Vision identity
 
@@ -187,3 +250,15 @@ O escudo institucional preserva as quatro cores laterais e o núcleo branco; Rub
 **GRAAL — Descobrir / Discover:** [Rubedo Research Workspace](https://kgasil.github.io/rubedo/research/) · [Precisão / Precision (R06)](https://kgasil.github.io/rubedo/research/#precisao) · [Monte Carlo (R07)](https://kgasil.github.io/rubedo/research/#monte-carlo). Novos modelos experimentais; validação atual pendente / Experimental additions; current validation pending.
 
 **Rubedo — edição 1.0 / 1.0 edition:** [Research Workspace 1.0](https://kgasil.github.io/rubedo/research/) · [Mini Lab 1.0.0](https://kgasil.github.io/rubedo/mini/) · [Mini Extension 1.0.0 — instalação manual / manual installation](https://kgasil.github.io/rubedo/#instalar). Edição experimental / Experimental edition.
+
+</details>
+
+---
+
+## Let's connect
+
+I welcome conversations about analytics, automation, engineering, applied AI and meaningful technology projects.
+
+[LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva) · [K&G Vision](https://kgasil.github.io/) · [GitHub repositories](https://github.com/Kgasil?tab=repositories)
+
+<p align="center"><em>Intelligence Without Boundaries. Engineered for Trust.</em></p>
