@@ -10,15 +10,19 @@
 
 K&G Vision is my independent technology initiative, built around four distinct ambitions: advance knowledge, engineer trustworthy AI, simplify everyday work and empower business growth. Each project has its own website and repository. The initiative is not an incorporated company and does not currently offer commercial services.
 
-## Ecosystem / Ecossistema
+> **K&G Vision — Ecosystem 1.0 milestone / Marco 1.0 do ecossistema** · 25/11/2026. Four public-facing deliverables across independent study, applied AI research, productivity and business intelligence. / Quatro entregas públicas em estudo independente, pesquisa aplicada de IA, produtividade e inteligência empresarial.
+
+## Ecosystem / Ecossistema — Marco 1.0
 
 | Project | Website | Repository | Current stage / Etapa atual |
 | --- | --- | --- | --- |
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
-| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | 75 private study PDFs; [interactive public library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs de estudo privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html) |
-| Project Vision | [Security and Development](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | Local demonstration lab / Laboratório demonstrativo local |
-| Project Aeris | [Discreet & Efficient. / Discreto e Eficiente.](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | Desktop RC1; Extension 1.0.0 available for manual installation / Desktop RC1; Extensão 1.0.0 disponível para instalação manual |
-| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | Web Lab 1.0 public demo; Desktop v0.14.0 controlled preview; [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) GitHub-only experimental extension. / Web Lab 1.0 público; Desktop v0.14.0 em prévia controlada; Mini v0.1.1 experimental pelo GitHub. |
+| Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | **1.0 — Editorial & Library / Acervo e biblioteca.** 75 private study PDFs; [public interactive library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs privados; biblioteca pública interativa, sem cursos ou certificados. |
+| Project Vision | [Security & Development / Segurança e Desenvolvimento](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | **1.0 — Public Research Lab / Laboratório público.** Technical baseline V10.2; local demonstrations / Base técnica V10.2; demonstrações locais, não serviços de produção. |
+| Project Aeris | [Discreet & Efficient / Discreto e Eficiente](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | **1.0 — Extension 1.0.0.** [Manual installation / Instalação manual](https://github.com/Kgasil/aeris/tree/main/extension); Desktop 1.0.0rc1 remains a preview / permanece em prévia. |
+| Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | **1.0 — Web Lab.** Public demo / demonstração pública; Desktop v0.14.0 controlled preview / prévia controlada; [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) experimental. |
+
+**Version note / Nota de versão:** 1.0 identifies the first completed public-facing project milestone of the ecosystem, not a uniform software release tag. Genesis is an editorial milestone; Vision retains technical baseline V10.2; Aeris 1.0.0 applies to Extension; Lilium 1.0 applies to Web Lab. / 1.0 identifica o primeiro marco público do ecossistema, não uma tag de software uniforme. Genesis é um marco editorial; Vision mantém a base V10.2; Aeris 1.0.0 refere-se à extensão; Lilium 1.0 refere-se ao Web Lab. Desktop previews are not stable releases / Prévias Desktop não são versões estáveis.
 
 **Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
@@ -52,6 +56,9 @@ The repositories below are demonstrations and learning projects, not claims of p
 
 | Project | Stack | Scope |
 | --- | --- | --- |
+| [Project Genesis — Library](https://github.com/Kgasil/genesis) | HTML, CSS, JavaScript | 1.0 editorial milestone; bilingual interactive study library |
+| [Project Aeris — Extension](https://github.com/Kgasil/aeris) | JavaScript, Manifest V3, Python (Desktop preview) | Extension 1.0.0; 16 tools, manual installation |
+| [Project Lilium — Web Lab](https://github.com/Kgasil/lilium) | JavaScript, HTML, CSS, Python (Desktop preview) | Web Lab 1.0; synthetic business analytics |
 | [Project Vision — Technology Hub](https://github.com/Kgasil/vision) | HTML, CSS, JavaScript | Interactive AI integration, security, assurance and performance simulations |
 | [K&G Vision — institutional site](https://github.com/Kgasil/kgasil.github.io) | HTML, CSS, JavaScript | Overview of the independent technology ecosystem |
 | [Maintenance Analytics](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | Maintenance KPIs and synthetic data cleaning |
@@ -80,8 +87,8 @@ A self-directed learning initiative covering programming, data and artificial in
 A K&G Vision é minha iniciativa tecnológica independente, ainda não constituída como empresa. Conecta estudos científicos, pesquisa em engenharia de IA e desenvolvimento de ferramentas úteis. Não oferece serviços comerciais atualmente.
 
 - [K&G Vision](https://kgasil.github.io/) — apresentação institucional.
-- [Project Genesis — Sabedoria e Aplicação](https://kgasil.github.io/genesis/) — acervo independente de 75 PDFs privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html).
-- [Project Vision — Segurança e Desenvolvimento](https://kgasil.github.io/vision/) — laboratório demonstrativo V10.2 de integração, segurança, avaliação e desempenho de IA.
+- [Project Genesis — Sabedoria e Aplicação](https://kgasil.github.io/genesis/) — marco editorial 1.0, acervo independente de 75 PDFs privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html).
+- [Project Vision — Segurança e Desenvolvimento](https://kgasil.github.io/vision/) — marco público 1.0, laboratório demonstrativo com base V10.2 de integração, segurança, avaliação e desempenho de IA.
 - [Project Aeris — Discreto e Eficiente.](https://kgasil.github.io/aeris/) — Desktop RC1 e extensão Chromium 1.0.0 com 16 ferramentas, disponível para instalação manual pelo GitHub.
 - [Project Lilium](https://kgasil.github.io/lilium/) — Web Lab 1.0 público, Workspace local v0.14.0 em prévia controlada e [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) experimental pelo GitHub.
 
@@ -114,6 +121,9 @@ Os repositórios são demonstrações e projetos de aprendizado, não comprovaç
 
 | Projeto | Tecnologias | Escopo |
 | --- | --- | --- |
+| [Project Genesis — Biblioteca](https://github.com/Kgasil/genesis) | HTML, CSS, JavaScript | Marco editorial 1.0; biblioteca interativa bilíngue |
+| [Project Aeris — Extensão](https://github.com/Kgasil/aeris) | JavaScript, Manifest V3, Python (prévia Desktop) | Extensão 1.0.0; 16 ferramentas, instalação manual |
+| [Project Lilium — Web Lab](https://github.com/Kgasil/lilium) | JavaScript, HTML, CSS, Python (prévia Desktop) | Web Lab 1.0; análises empresariais com dados fictícios |
 | [Project Vision — Technology Hub](https://github.com/Kgasil/vision) | HTML, CSS, JavaScript | Simulações interativas de integração, segurança, avaliação e desempenho de IA |
 | [K&G Vision — site institucional](https://github.com/Kgasil/kgasil.github.io) | HTML, CSS, JavaScript | Apresentação do ecossistema tecnológico independente |
 | [Análise de manutenção](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | KPIs de manutenção e limpeza de dados fictícios |
