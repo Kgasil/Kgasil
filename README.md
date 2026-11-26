@@ -14,7 +14,7 @@ K&G Vision is my independent technology initiative, built around five distinct a
 
 > **Marco 01 — GRAAL (26/11/2026).** Five independent projects: Genesis, Rubedo, Argus, Aeris and Lilium. / Cinco projetos independentes; Rubedo integra o ecossistema, sem modificar os marcos anteriores.
 
-## Ecosystem / Ecossistema — Marco 1.0
+## GRAAL — Ecosystem / Ecossistema · Marco 01
 
 | Project | Website | Repository | Current stage / Etapa atual |
 | --- | --- | --- | --- |
@@ -73,9 +73,9 @@ The repositories below are demonstrations and learning projects, not claims of p
 | --- | --- | --- |
 | [Project Genesis — Library](https://github.com/Kgasil/genesis) | HTML, CSS, JavaScript | 1.0 editorial milestone; bilingual interactive study library; [Genesis Mini](https://kgasil.github.io/genesis/mini/) study companion |
 | [Project Rubedo — Public Lab](https://github.com/Kgasil/rubedo) | HTML, CSS, JavaScript, Python (tests / testes) | Applied science / ciência aplicada; simulations, optimization and reproducible experiments / simulação, otimização e experimentos reproduzíveis |
+| [Project Argus — Technology Hub](https://github.com/Kgasil/argus) | HTML, CSS, JavaScript | Interactive AI integration, security, assurance and performance simulations; complementary [Mini Lab](https://kgasil.github.io/argus/mini/) |
 | [Project Aeris — Extension](https://github.com/Kgasil/aeris) | JavaScript, Manifest V3, Python (Desktop preview) | Extension 1.0.0; 16 tools, [manual installation](https://kgasil.github.io/aeris/extension-preview.html); [Desktop RC1 preview](https://kgasil.github.io/aeris/#instalacao) |
 | [Project Lilium — Web Lab](https://github.com/Kgasil/lilium) | JavaScript, HTML, CSS, Python (Desktop preview) | Web Lab 1.0; synthetic business analytics |
-| [Project Argus — Technology Hub](https://github.com/Kgasil/argus) | HTML, CSS, JavaScript | Interactive AI integration, security, assurance and performance simulations; complementary [Mini Lab](https://kgasil.github.io/argus/mini/) |
 | [K&G Vision — institutional site](https://github.com/Kgasil/kgasil.github.io) | HTML, CSS, JavaScript | Overview of the independent technology ecosystem |
 | [Maintenance Analytics](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | Maintenance KPIs and synthetic data cleaning |
 | [CNPJ Data Enrichment](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script) | Apps Script, REST APIs | Registration data normalization and API fallback |
@@ -140,9 +140,9 @@ Os repositórios são demonstrações e projetos de aprendizado, não comprovaç
 | --- | --- | --- |
 | [Project Genesis — Biblioteca](https://github.com/Kgasil/genesis) | HTML, CSS, JavaScript | Marco editorial 1.0; biblioteca interativa bilíngue; [Genesis Mini](https://kgasil.github.io/genesis/mini/) complementar |
 | [Project Rubedo — Public Lab](https://github.com/Kgasil/rubedo) | HTML, CSS, JavaScript, Python (tests / testes) | Applied science / ciência aplicada; simulations, optimization and reproducible experiments / simulação, otimização e experimentos reproduzíveis |
+| [Project Argus — Technology Hub](https://github.com/Kgasil/argus) | HTML, CSS, JavaScript | Simulações interativas de integração, segurança, avaliação e desempenho de IA; [Mini Lab](https://kgasil.github.io/argus/mini/) complementar |
 | [Project Aeris — Extensão](https://github.com/Kgasil/aeris) | JavaScript, Manifest V3, Python (prévia Desktop) | Extensão 1.0.0; 16 ferramentas, instalação manual |
 | [Project Lilium — Web Lab](https://github.com/Kgasil/lilium) | JavaScript, HTML, CSS, Python (prévia Desktop) | Web Lab 1.0; análises empresariais com dados fictícios |
-| [Project Argus — Technology Hub](https://github.com/Kgasil/argus) | HTML, CSS, JavaScript | Simulações interativas de integração, segurança, avaliação e desempenho de IA; [Mini Lab](https://kgasil.github.io/argus/mini/) complementar |
 | [K&G Vision — site institucional](https://github.com/Kgasil/kgasil.github.io) | HTML, CSS, JavaScript | Apresentação do ecossistema tecnológico independente |
 | [Análise de manutenção](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | KPIs de manutenção e limpeza de dados fictícios |
 | [Enriquecimento de CNPJ](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script) | Apps Script, REST APIs | Normalização cadastral e API alternativa |
