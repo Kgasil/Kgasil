@@ -69,7 +69,7 @@ Five complementary projects, each with its own purpose, identity and development
 | 🟠 **Rubedo** | Science & Innovation — applied research, simulation and experimentation | [Website](https://kgasil.github.io/rubedo/) · [Repository](https://github.com/Kgasil/rubedo) |
 | 🔵 **Argus** | Security & Development — AI integration, evaluation and security research | [Website](https://kgasil.github.io/argus/) · [Repository](https://github.com/Kgasil/argus) |
 | 🟢 **Aeris** | Efficiency & Simplicity — practical productivity tools | [Website](https://kgasil.github.io/aeris/) · [Repository](https://github.com/Kgasil/aeris) |
-| 🩷 **Lilium** | Strategy & Growth — business intelligence and financial analysis | [Website](https://kgasil.github.io/lilium/) · [Repository](https://github.com/Kgasil/lilium) |
+| 🔴 **Lilium** | Strategy & Growth — business intelligence and financial analysis | [Website](https://kgasil.github.io/lilium/) · [Repository](https://github.com/Kgasil/lilium) |
 
 **Learn · Discover · Build · Simplify · Transform**
 
