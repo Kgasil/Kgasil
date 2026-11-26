@@ -18,11 +18,11 @@ K&G Vision is my independent technology initiative, built around four distinct a
 | --- | --- | --- | --- |
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
 | Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | **1.0 — Editorial & Library / Acervo e biblioteca.** 75 private study PDFs; [public interactive library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs privados; biblioteca pública interativa, sem cursos ou certificados. |
-| Project Vision | [Security & Development / Segurança e Desenvolvimento](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | **1.0 — Public Research Lab / Laboratório público.** Technical baseline V10.2; local demonstrations / Base técnica V10.2; demonstrações locais, não serviços de produção. |
+| Project Argus | [Security & Development / Segurança e Desenvolvimento](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | **1.0 — Public Research Lab / Laboratório público.** Technical baseline V10.2; local demonstrations / Base técnica V10.2; demonstrações locais, não serviços de produção. |
 | Project Aeris | [Discreet & Efficient / Discreto e Eficiente](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | **1.0 — Extension 1.0.0.** [Manual installation / Instalação manual](https://github.com/Kgasil/aeris/tree/main/extension); Desktop 1.0.0rc1 remains a preview / permanece em prévia. |
 | Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | **1.0 — Web Lab.** Public demo / demonstração pública; Desktop v0.14.0 controlled preview / prévia controlada; [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) experimental. |
 
-**Version note / Nota de versão:** 1.0 identifies the first completed public-facing project milestone of the ecosystem, not a uniform software release tag. Genesis is an editorial milestone; Vision retains technical baseline V10.2; Aeris 1.0.0 applies to Extension; Lilium 1.0 applies to Web Lab. / 1.0 identifica o primeiro marco público do ecossistema, não uma tag de software uniforme. Genesis é um marco editorial; Vision mantém a base V10.2; Aeris 1.0.0 refere-se à extensão; Lilium 1.0 refere-se ao Web Lab. Desktop previews are not stable releases / Prévias Desktop não são versões estáveis.
+**Version note / Nota de versão:** 1.0 identifies the first completed public-facing project milestone of the ecosystem, not a uniform software release tag. Genesis is an editorial milestone; Argus retains technical baseline V10.2; Aeris 1.0.0 applies to Extension; Lilium 1.0 applies to Web Lab. / 1.0 identifica o primeiro marco público do ecossistema, não uma tag de software uniforme. Genesis é um marco editorial; Argus mantém a base V10.2; Aeris 1.0.0 refere-se à extensão; Lilium 1.0 refere-se ao Web Lab. Desktop previews are not stable releases / Prévias Desktop não são versões estáveis.
 
 **Learn · Build · Simplify · Transform / Aprender · Construir · Simplificar · Transformar**
 
@@ -31,7 +31,7 @@ K&G Vision is my independent technology initiative, built around four distinct a
 
 Production Engineering student at UNIVESP (expected graduation: December 2027) and Industrial Chemistry technician. My professional background connects operational processes, CRM data governance, technical budgeting, reporting and workflow automation.
 
-I am currently strengthening my Python fundamentals and studying data engineering, software development and AI security through **Project Genesis**, my independent learning initiative. **Project Vision** is the applied research and engineering laboratory within the K&G Vision ecosystem. I am interested in junior opportunities in Data Analytics, BI, Data Quality, Process Automation and Operations Analytics, especially remote or hybrid roles.
+I am currently strengthening my Python fundamentals and studying data engineering, software development and AI security through **Project Genesis**, my independent learning initiative. **Project Argus** is the applied research and engineering laboratory within the K&G Vision ecosystem. I am interested in junior opportunities in Data Analytics, BI, Data Quality, Process Automation and Operations Analytics, especially remote or hybrid roles.
 
 ### Professional background
 
@@ -59,7 +59,7 @@ The repositories below are demonstrations and learning projects, not claims of p
 | [Project Genesis — Library](https://github.com/Kgasil/genesis) | HTML, CSS, JavaScript | 1.0 editorial milestone; bilingual interactive study library |
 | [Project Aeris — Extension](https://github.com/Kgasil/aeris) | JavaScript, Manifest V3, Python (Desktop preview) | Extension 1.0.0; 16 tools, manual installation |
 | [Project Lilium — Web Lab](https://github.com/Kgasil/lilium) | JavaScript, HTML, CSS, Python (Desktop preview) | Web Lab 1.0; synthetic business analytics |
-| [Project Vision — Technology Hub](https://github.com/Kgasil/vision) | HTML, CSS, JavaScript | Interactive AI integration, security, assurance and performance simulations |
+| [Project Argus — Technology Hub](https://github.com/Kgasil/vision) | HTML, CSS, JavaScript | Interactive AI integration, security, assurance and performance simulations |
 | [K&G Vision — institutional site](https://github.com/Kgasil/kgasil.github.io) | HTML, CSS, JavaScript | Overview of the independent technology ecosystem |
 | [Maintenance Analytics](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | Maintenance KPIs and synthetic data cleaning |
 | [CNPJ Data Enrichment](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script) | Apps Script, REST APIs | Registration data normalization and API fallback |
@@ -74,7 +74,7 @@ The Portuguese version of the application follow-up project is [available here](
 
 ## Project Genesis
 
-A self-directed learning initiative covering programming, data and artificial intelligence. The first milestone is [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), a beginner chatbot exercise inspired by Data Science Academy. The goal is to progressively move from guided practice to independent development, testing and technical research, with a long-term focus on AI integration, security and assurance. Genesis is the independent study project; Vision is the applied laboratory. The AI-assisted editorial collection now comprises 75 private study PDFs, 3,277 pages, 60 topic volumes, 10 integrated guides and 5 companion documents. Its [public library](https://kgasil.github.io/genesis/biblioteca.html) contains 11 reading areas, 22 optional expandable reading folders, 11 mini labs, 11 explained challenges, bilingual search and local reading marks. Full PDFs can be requested directly via [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). Editorial completion does not imply that I have completed all the studies. It is not an educational institution and does not offer courses or certificates. [Visit Genesis](https://kgasil.github.io/genesis/).
+A self-directed learning initiative covering programming, data and artificial intelligence. The first milestone is [K&G Vision AI Coder](https://github.com/Kgasil/KG-Vision-AI-Coder), a beginner chatbot exercise inspired by Data Science Academy. The goal is to progressively move from guided practice to independent development, testing and technical research, with a long-term focus on AI integration, security and assurance. Genesis is the independent study project; Argus is the applied laboratory. The AI-assisted editorial collection now comprises 75 private study PDFs, 3,277 pages, 60 topic volumes, 10 integrated guides and 5 companion documents. Its [public library](https://kgasil.github.io/genesis/biblioteca.html) contains 11 reading areas, 22 optional expandable reading folders, 11 mini labs, 11 explained challenges, bilingual search and local reading marks. Full PDFs can be requested directly via [LinkedIn](https://www.linkedin.com/in/kaio-gabriel-da-silva). Editorial completion does not imply that I have completed all the studies. It is not an educational institution and does not offer courses or certificates. [Visit Genesis](https://kgasil.github.io/genesis/).
 
 ---
 
@@ -88,15 +88,15 @@ A K&G Vision é minha iniciativa tecnológica independente, ainda não constitu�
 
 - [K&G Vision](https://kgasil.github.io/) — apresentação institucional.
 - [Project Genesis — Sabedoria e Aplicação](https://kgasil.github.io/genesis/) — marco editorial 1.0, acervo independente de 75 PDFs privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html).
-- [Project Vision — Segurança e Desenvolvimento](https://kgasil.github.io/vision/) — marco público 1.0, laboratório demonstrativo com base V10.2 de integração, segurança, avaliação e desempenho de IA.
+- [Project Argus — Segurança e Desenvolvimento](https://kgasil.github.io/vision/) — marco público 1.0, laboratório demonstrativo com base V10.2 de integração, segurança, avaliação e desempenho de IA.
 - [Project Aeris — Discreto e Eficiente.](https://kgasil.github.io/aeris/) — Desktop RC1 e extensão Chromium 1.0.0 com 16 ferramentas, disponível para instalação manual pelo GitHub.
 - [Project Lilium](https://kgasil.github.io/lilium/) — Web Lab 1.0 público, Workspace local v0.14.0 em prévia controlada e [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) experimental pelo GitHub.
 
-As demonstrações do Vision são protótipos locais, não serviços de segurança em produção ou auditorias independentes. O Aeris possui 50 ferramentas desktop em protótipo e 16 ferramentas na extensão Chromium 1.0.0; ZIPs da extensão publicados; validação independente ainda pendente.
+As demonstrações do Argus são protótipos locais, não serviços de segurança em produção ou auditorias independentes. O Aeris possui 50 ferramentas desktop em protótipo e 16 ferramentas na extensão Chromium 1.0.0; ZIPs da extensão publicados; validação independente ainda pendente.
 
 Estudante de Engenharia de Produção na UNIVESP (previsão de conclusão: dezembro de 2027) e técnico em Química Industrial. Minha trajetória profissional conecta processos operacionais, governança de dados de CRM, orçamentação técnica, indicadores e automação de fluxos.
 
-Atualmente aprofundo os fundamentos de Python, engenharia de dados, desenvolvimento de software e segurança de IA por meio do **Project Genesis**, minha iniciativa independente de aprendizado. O **Project Vision** é o laboratório de pesquisa e engenharia aplicada do ecossistema K&G Vision. Busco oportunidades júnior em Análise de Dados, BI, Qualidade de Dados, Automação de Processos e Análise de Operações, especialmente remotas ou híbridas.
+Atualmente aprofundo os fundamentos de Python, engenharia de dados, desenvolvimento de software e segurança de IA por meio do **Project Genesis**, minha iniciativa independente de aprendizado. O **Project Argus** é o laboratório de pesquisa e engenharia aplicada do ecossistema K&G Vision. Busco oportunidades júnior em Análise de Dados, BI, Qualidade de Dados, Automação de Processos e Análise de Operações, especialmente remotas ou híbridas.
 
 ### Experiência profissional
 
@@ -124,7 +124,7 @@ Os repositórios são demonstrações e projetos de aprendizado, não comprovaç
 | [Project Genesis — Biblioteca](https://github.com/Kgasil/genesis) | HTML, CSS, JavaScript | Marco editorial 1.0; biblioteca interativa bilíngue |
 | [Project Aeris — Extensão](https://github.com/Kgasil/aeris) | JavaScript, Manifest V3, Python (prévia Desktop) | Extensão 1.0.0; 16 ferramentas, instalação manual |
 | [Project Lilium — Web Lab](https://github.com/Kgasil/lilium) | JavaScript, HTML, CSS, Python (prévia Desktop) | Web Lab 1.0; análises empresariais com dados fictícios |
-| [Project Vision — Technology Hub](https://github.com/Kgasil/vision) | HTML, CSS, JavaScript | Simulações interativas de integração, segurança, avaliação e desempenho de IA |
+| [Project Argus — Technology Hub](https://github.com/Kgasil/vision) | HTML, CSS, JavaScript | Simulações interativas de integração, segurança, avaliação e desempenho de IA |
 | [K&G Vision — site institucional](https://github.com/Kgasil/kgasil.github.io) | HTML, CSS, JavaScript | Apresentação do ecossistema tecnológico independente |
 | [Análise de manutenção](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | KPIs de manutenção e limpeza de dados fictícios |
 | [Enriquecimento de CNPJ](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script) | Apps Script, REST APIs | Normalização cadastral e API alternativa |
@@ -151,7 +151,7 @@ Projeto próprio de estudos e pesquisa em programação, dados e inteligência a
 
 Official visual lockup: **K&G** above **Vision**; individual project symbols are retained. / Assinatura visual oficial: **K&G** acima de **Vision**, mantendo os símbolos individuais dos projetos.
 
-**Genesis (purple) · Vision (blue) · Aeris (green) · Lilium (rose)**
+**Genesis (purple) · Argus (blue) · Aeris (green) · Lilium (rose)**
 
 [Lilium Interactive Lab / Laboratório interativo](https://kgasil.github.io/lilium/#lab) · [Insights CSV demo](https://kgasil.github.io/lilium/demo.html) — browser-based synthetic exercises; no connected AI or commercial offering.
 
