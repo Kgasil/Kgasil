@@ -2,6 +2,7 @@
 
 <p align="center"><strong>Data & Analytics · Process Automation · Applied AI</strong></p>
 <p align="center">Connecting engineering, business operations and technology to solve practical problems.</p>
+<p align="center"><sub>São José dos Campos, Brazil · Married / Casado</sub></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/kaio-gabriel-da-silva">LinkedIn</a> ·
   <a href="https://kgasil.github.io/portfolio/">Personal website</a> ·
