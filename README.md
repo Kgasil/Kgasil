@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://kgasil.github.io/portfolio/">
-    <img src="assets/personal-portfolio.svg" alt="Visit my personal website — explore my experience, projects and professional journey" width="900">
+    <img src="https://raw.githubusercontent.com/Kgasil/Kgasil/main/assets/personal-portfolio-kg.svg" alt="Visit my personal website — explore my experience, projects and professional journey" width="900">
   </a>
 </p>
 
