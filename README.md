@@ -18,7 +18,7 @@ K&G Vision is my independent technology initiative, built around four distinct a
 | --- | --- | --- | --- |
 | K&G Vision | [Institutional](https://kgasil.github.io/) | [Source](https://github.com/Kgasil/kgasil.github.io) | Independent initiative / Iniciativa independente |
 | Project Genesis | [Wisdom & Application / Sabedoria e Aplicação](https://kgasil.github.io/genesis/) | [Source](https://github.com/Kgasil/genesis) | **1.0 — Editorial & Library / Acervo e biblioteca.** 75 private study PDFs; [public interactive library](https://kgasil.github.io/genesis/biblioteca.html) / 75 PDFs privados; biblioteca pública interativa, sem cursos ou certificados. |
-| Project Argus | [Security & Development / Segurança e Desenvolvimento](https://kgasil.github.io/vision/) | [Source](https://github.com/Kgasil/vision) | **1.0 — Public Research Lab / Laboratório público.** Technical baseline V10.2; local demonstrations / Base técnica V10.2; demonstrações locais, não serviços de produção. |
+| Project Argus | [Security & Development / Segurança e Desenvolvimento](https://kgasil.github.io/argus/) | [Source](https://github.com/Kgasil/argus) | **1.0 — Public Research Lab / Laboratório público.** Technical baseline V10.2; local demonstrations / Base técnica V10.2; demonstrações locais, não serviços de produção. |
 | Project Aeris | [Discreet & Efficient / Discreto e Eficiente](https://kgasil.github.io/aeris/) | [Source](https://github.com/Kgasil/aeris) | **1.0 — Extension 1.0.0.** [Manual installation / Instalação manual](https://github.com/Kgasil/aeris/tree/main/extension); Desktop 1.0.0rc1 remains a preview / permanece em prévia. |
 | Project Lilium | [Strategy & Growth / Estratégia e Crescimento](https://kgasil.github.io/lilium/) | [Source](https://github.com/Kgasil/lilium) | **1.0 — Web Lab.** Public demo / demonstração pública; Desktop v0.14.0 controlled preview / prévia controlada; [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) experimental. |
 
@@ -59,7 +59,7 @@ The repositories below are demonstrations and learning projects, not claims of p
 | [Project Genesis — Library](https://github.com/Kgasil/genesis) | HTML, CSS, JavaScript | 1.0 editorial milestone; bilingual interactive study library |
 | [Project Aeris — Extension](https://github.com/Kgasil/aeris) | JavaScript, Manifest V3, Python (Desktop preview) | Extension 1.0.0; 16 tools, manual installation |
 | [Project Lilium — Web Lab](https://github.com/Kgasil/lilium) | JavaScript, HTML, CSS, Python (Desktop preview) | Web Lab 1.0; synthetic business analytics |
-| [Project Argus — Technology Hub](https://github.com/Kgasil/vision) | HTML, CSS, JavaScript | Interactive AI integration, security, assurance and performance simulations |
+| [Project Argus — Technology Hub](https://github.com/Kgasil/argus) | HTML, CSS, JavaScript | Interactive AI integration, security, assurance and performance simulations |
 | [K&G Vision — institutional site](https://github.com/Kgasil/kgasil.github.io) | HTML, CSS, JavaScript | Overview of the independent technology ecosystem |
 | [Maintenance Analytics](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | Maintenance KPIs and synthetic data cleaning |
 | [CNPJ Data Enrichment](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script) | Apps Script, REST APIs | Registration data normalization and API fallback |
@@ -88,7 +88,7 @@ A K&G Vision é minha iniciativa tecnológica independente, ainda não constitu�
 
 - [K&G Vision](https://kgasil.github.io/) — apresentação institucional.
 - [Project Genesis — Sabedoria e Aplicação](https://kgasil.github.io/genesis/) — marco editorial 1.0, acervo independente de 75 PDFs privados; [biblioteca pública interativa](https://kgasil.github.io/genesis/biblioteca.html).
-- [Project Argus — Segurança e Desenvolvimento](https://kgasil.github.io/vision/) — marco público 1.0, laboratório demonstrativo com base V10.2 de integração, segurança, avaliação e desempenho de IA.
+- [Project Argus — Segurança e Desenvolvimento](https://kgasil.github.io/argus/) — marco público 1.0, laboratório demonstrativo com base V10.2 de integração, segurança, avaliação e desempenho de IA.
 - [Project Aeris — Discreto e Eficiente.](https://kgasil.github.io/aeris/) — Desktop RC1 e extensão Chromium 1.0.0 com 16 ferramentas, disponível para instalação manual pelo GitHub.
 - [Project Lilium](https://kgasil.github.io/lilium/) — Web Lab 1.0 público, Workspace local v0.14.0 em prévia controlada e [Mini v0.1.1](https://github.com/Kgasil/lilium/tree/main/extension) experimental pelo GitHub.
 
@@ -124,7 +124,7 @@ Os repositórios são demonstrações e projetos de aprendizado, não comprovaç
 | [Project Genesis — Biblioteca](https://github.com/Kgasil/genesis) | HTML, CSS, JavaScript | Marco editorial 1.0; biblioteca interativa bilíngue |
 | [Project Aeris — Extensão](https://github.com/Kgasil/aeris) | JavaScript, Manifest V3, Python (prévia Desktop) | Extensão 1.0.0; 16 ferramentas, instalação manual |
 | [Project Lilium — Web Lab](https://github.com/Kgasil/lilium) | JavaScript, HTML, CSS, Python (prévia Desktop) | Web Lab 1.0; análises empresariais com dados fictícios |
-| [Project Argus — Technology Hub](https://github.com/Kgasil/vision) | HTML, CSS, JavaScript | Simulações interativas de integração, segurança, avaliação e desempenho de IA |
+| [Project Argus — Technology Hub](https://github.com/Kgasil/argus) | HTML, CSS, JavaScript | Simulações interativas de integração, segurança, avaliação e desempenho de IA |
 | [K&G Vision — site institucional](https://github.com/Kgasil/kgasil.github.io) | HTML, CSS, JavaScript | Apresentação do ecossistema tecnológico independente |
 | [Análise de manutenção](https://github.com/Kgasil/analise-dados-manutencao-sql-powerbi) | SQL, Python | KPIs de manutenção e limpeza de dados fictícios |
 | [Enriquecimento de CNPJ](https://github.com/Kgasil/automacao-enriquecimento-cnpj-apps-script) | Apps Script, REST APIs | Normalização cadastral e API alternativa |
