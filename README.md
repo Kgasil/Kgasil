@@ -68,7 +68,7 @@ My professional direction brings together analytics, engineering and applied art
 
 ## K&G Vision — Independent technology initiative
 
-[![K&G Vision — Intelligence Without Boundaries. Engineered for Trust.](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg?v=20261126-2)](https://kgasil.github.io/)
+[![K&G Vision — Intelligence Without Boundaries. Engineered for Trust.](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg?v=20261127-graal)](https://kgasil.github.io/)
 
 K&G Vision is where I bring my curiosity, technical studies and product ideas together. It is an independent initiative I am building around a simple belief: knowledge becomes more valuable when it is applied thoughtfully.
 
@@ -86,7 +86,7 @@ Five complementary projects, each with its own purpose, identity and development
 | <img src="assets/dot-aeris.svg" width="14" height="14" alt=""> **Aeris** | Efficiency & Simplicity — practical productivity tools | [Website](https://kgasil.github.io/aeris/) · [Repository](https://github.com/Kgasil/aeris) |
 | <img src="assets/dot-lilium.svg" width="14" height="14" alt=""> **Lilium** | Strategy & Evolution — business intelligence and financial analysis | [Website](https://kgasil.github.io/lilium/) · [Repository](https://github.com/Kgasil/lilium) |
 
-**Learn · Discover · Build · Simplify · Evolve**
+**Learn · Build · Protect · Simplify · Evolve**
 
 
 ### GRAAL Security & Trust 1.1 — validation in progress
@@ -122,7 +122,7 @@ Five complementary projects, each with its own purpose, identity and development
 
 **Version note / Nota de versão:** 1.0 identifies the first completed public-facing project milestone of the ecosystem, not a uniform software release tag. Genesis is an editorial milestone; Argus retains technical baseline V10.2; Aeris 1.0.0 applies to Extension; Lilium 1.0 applies to Web Lab. / 1.0 identifica o primeiro marco público do ecossistema, não uma tag de software uniforme. Genesis é um marco editorial; Argus mantém a base V10.2; Aeris 1.0.0 refere-se à extensão; Lilium 1.0 refere-se ao Web Lab. Desktop previews are not stable releases / Prévias Desktop não são versões estáveis.
 
-**Learn · Discover · Build · Simplify · Evolve / Aprender · Descobrir · Construir · Simplificar · Evoluir**
+**Learn · Build · Protect · Simplify · Evolve / Aprender · Construir · Proteger · Simplificar · Evoluir**
 
 
 
@@ -267,7 +267,7 @@ Projeto próprio de estudos e pesquisa em programação, dados e inteligência a
 
 ## Identidade K&G Vision / K&G Vision identity
 
-[![K&G Vision — stacked wordmark, five-project GRAAL identity](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg?v=20261126-2)](https://kgasil.github.io/)
+[![K&G Vision — stacked wordmark, five-project GRAAL identity](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/brand-banner.svg?v=20261127-graal)](https://kgasil.github.io/)
 
 [Versão vertical / Vertical lockup](https://github.com/Kgasil/kgasil.github.io/blob/main/assets/brand-stacked.svg) · [Escudo / Shield](https://github.com/Kgasil/kgasil.github.io/blob/main/assets/kg-symbol.svg)
 
@@ -288,7 +288,7 @@ O escudo institucional preserva as quatro cores laterais e o núcleo branco; Rub
 
 [![K&G Vision — GRAAL](https://raw.githubusercontent.com/Kgasil/kgasil.github.io/main/assets/kg-symbol.svg?v=20261126-2)](https://kgasil.github.io/) **GRAAL · Marco 01** — identidade integrada / integrated identity.
 
-**GRAAL — Descobrir / Discover:** [Rubedo Research Workspace](https://kgasil.github.io/rubedo/research/) · [Precisão / Precision (R06)](https://kgasil.github.io/rubedo/research/#precisao) · [Monte Carlo (R07)](https://kgasil.github.io/rubedo/research/#monte-carlo). Modelos experimentais; CI de integridade e interface registrada, sem validação científica ou industrial / Experimental models; package and interface CI recorded, no scientific or industrial validation.
+**GRAAL — Construir / Build (Rubedo):** [Rubedo Research Workspace](https://kgasil.github.io/rubedo/research/) · [Precisão / Precision (R06)](https://kgasil.github.io/rubedo/research/#precisao) · [Monte Carlo (R07)](https://kgasil.github.io/rubedo/research/#monte-carlo). Modelos experimentais; CI de integridade e interface registrada, sem validação científica ou industrial / Experimental models; package and interface CI recorded, no scientific or industrial validation.
 
 **Rubedo — edição 1.0 / 1.0 edition:** [Research Workspace 1.0](https://kgasil.github.io/rubedo/research/) · [Mini Lab 1.0.0](https://kgasil.github.io/rubedo/mini/) · [Mini Extension 1.0.0 — instalação manual / manual installation](https://kgasil.github.io/rubedo/#instalar). Edição experimental / Experimental edition.
 
