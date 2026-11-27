@@ -88,6 +88,28 @@ Five complementary projects, each with its own purpose, identity and development
 
 **Learn · Build · Protect · Simplify · Evolve**
 
+## GRAAL — metodologia empresarial / business methodology
+
+**Aprender · Construir · Proteger · Simplificar · Evoluir** / **Learn · Build · Protect · Simplify · Evolve**
+
+A K&G Vision propõe uma abordagem de imersão operacional: compreender o negócio, construir confiança e identificar oportunidades de melhoria antes de propor soluções. / K&G Vision proposes an operational immersion approach: understand the business, build trust and identify improvement opportunities before proposing solutions.
+
+| Pilar / Pillar | Aplicação / Application | Projeto / Project |
+| --- | --- | --- |
+| Aprender / Learn | Conhecer o negócio e seus desafios / Understand the business and its challenges | [Genesis](https://kgasil.github.io/genesis/) |
+| Construir / Build | Pesquisa, engenharia e soluções adequadas / Research, engineering and context-appropriate solutions | [Rubedo](https://kgasil.github.io/rubedo/) |
+| Proteger / Protect | Segurança, privacidade e governança / Security, privacy and governance | [Argus](https://kgasil.github.io/argus/) |
+| Simplificar / Simplify | Processos eficientes e automação / Efficient processes and automation | [Aeris](https://kgasil.github.io/aeris/) |
+| Evoluir / Evolve | Indicadores, resultados e melhoria contínua / Metrics, results and continuous improvement | [Lilium](https://kgasil.github.io/lilium/) |
+
+**Possibilidades de colaboração / Collaboration opportunities:** operações e processos, dados e BI, automação e integrações, inteligência artificial, segurança e governança / operations and processes, data and BI, automation and integrations, AI, security and governance.
+
+A iniciativa permanece independente, ainda não constituída como empresa. A prestação de serviços, os acessos e o escopo dependem de formalização, enquadramento adequado e autorização. Os projetos públicos são demonstrações e pesquisa, não auditorias certificadas nem produtos de produção. Referências empresariais somente com autorização. / The initiative remains independent, not yet incorporated. Services, access and scope require formal agreement, legal eligibility and authorization. Public projects are demonstrations and research, not certified audits or production products. Business references require permission.
+
+[Metodologia / Methodology](https://kgasil.github.io/#graal) · [Soluções / Solutions](https://kgasil.github.io/#solucoes) · [Parcerias / Partnerships](https://kgasil.github.io/#contato)
+
+
+
 
 ### GRAAL Security & Trust 1.1 — validation in progress
 
